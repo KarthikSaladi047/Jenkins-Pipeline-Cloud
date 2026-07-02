@@ -1,4 +1,4 @@
-# Jenkins CI/CD Pipeline to deploy a Simple React JS Application 
+# Jenkins CI/CD Pipeline to deploy a React JS Application on Azure
 
 ## Overview
 This project aims to demonstrate the implementation of a CI/CD pipeline for a simple Reactjs application using Jenkins. The pipeline includes the following stages:
